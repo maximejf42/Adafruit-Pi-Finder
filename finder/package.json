@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/adafruit/Adafruit-Pi-Finder",
   "dependencies": {
-    "async": "^2.1.2",
+    "async": "^3.2.2",
     "ip": "^1.1.4",
     "ssh2": "^0.5.4"
   }
